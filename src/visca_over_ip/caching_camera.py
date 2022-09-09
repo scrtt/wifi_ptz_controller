@@ -1,4 +1,4 @@
-from visca_over_ip.camera import Camera
+from src.visca_over_ip.camera import Camera
 
 
 class CachingCamera(Camera):

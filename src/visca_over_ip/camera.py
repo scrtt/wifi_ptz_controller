@@ -1,7 +1,7 @@
 import socket
 import binascii
 
-from visca_over_ip.exceptions import ViscaException, NoQueryResponse
+from src.visca_over_ip.exceptions import ViscaException, NoQueryResponse
 
 SEQUENCE_NUM_MAX = 2 ** 32 - 1
 
