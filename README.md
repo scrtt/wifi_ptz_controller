@@ -1,7 +1,7 @@
 # WiFi PTZ Controller
 
 DIY remote for controlling cameras via visca over ip.
-Running on ESP32 microcontroller and micropython. Using Arcade Buttons from Amazon and a self designed 3d printed case.
+Running on ESP32 microcontroller and micropython. Using arcade buttons from amazon in a self designed 3d printed case.
 
 ![Controller Overview](/img/build_05.jpg)
 
