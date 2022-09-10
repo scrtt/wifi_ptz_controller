@@ -3,7 +3,7 @@
 DIY remote for controlling cameras via visca over ip.
 Running on ESP32 microcontroller and micropython. Using arcade buttons from amazon in a self designed 3d printed case.
 
-![Controller Overview](/img/build_05.jpg)
+![Controller Overview](/img/build_06.jpg)
 
 ### Features
 
@@ -33,7 +33,7 @@ Write the image
 
 
 Replace `COM4` with the port your ESP is connected.
-The filename of the image `esp32-20180511-v1.9.4.bin` needs to replace by the name of the downloaded image. 
+The filename of the image `esp32-20180511-v1.9.4.bin` needs to be replaced by the name of the downloaded image. 
 
 #### 2. Download the repository
 
